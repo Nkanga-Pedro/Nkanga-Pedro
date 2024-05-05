@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nkanga-Pedro
-- 👀 I’m interested in data science, data analytics, machine learning, python, sql, data base, tableau, power bi
-- 🌱 I’m currently learning machine learning e data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Data Analytics, Machine Learning, Python, Sql, Data Base, Tableau, Power BI and Excel
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m workking in Pattern Recognition and Automatic-Learning-Ukv
+- 📫 How to reach me @nkangapedroinfo
 
 <!---
 Nkanga-Pedro/Nkanga-Pedro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
