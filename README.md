@@ -2,7 +2,7 @@
 
 **`Data Scietist | Professor | AI-Based Making Decision`**
 
-Me chamo Nkanga Pedro, sou Angolano e natural da Damba na Provincia do Uíge. sou Professor Universitário na Universidade Kimpa Vita (UNIKIVI), colaboro também no Instituto Superior Politécnico Privado do Uíge (ISPPU) e Instituto Superior Privado Nzenzu-Estrela(ISPN) onde leciono cadeiras como Base de Dados, Inteligencia Artificial (IA), Sistema de Gestão de Base de Dados, Administração de Base de Dados, Gestão de Projetos Informaticos e Engenharia de Software, sou consultor em Análise de Dados e formador em ferramentas de IA na pesquisa e redação. Tenho Mestrado em Engenharia Informática na área de Ciencia de Dados e Inteligencia Artificial na Universidade da Beira Interior (UBI-Portugal), tenho Mestrado Profissional de Data Science and Machine Learning no DataTech-Florida (EAU), tenho Licenciatura em Engenharia Informática na área de Engenharia de Software na UNIKIVI(Angola). Atualmente, cursando Doutoramento em Engenharia Informática na área de IA-Based Making Decision in Education. Sou apaixonada por Dados, IA, e assunto que liga educação, motivo pela qual a minha pesquisa foca na educação onde me preocupo e tento procurar-me em dar solução atráves da minha tese intitulada **Personalização Curricular no desenvolvimento educacional e socioeconómico de Angola: Uma abordagem baseada em aprendizagem automática**.
+Sou Nkanga Pedro, Angolano, **Professor** na Universidade Kimpa Vita (UNIKIVI), colaboro também no Instituto Superior Politécnico Privado do Uíge (ISPPU) e Instituto Superior Privado Nzenzu-Estrela(ISPN) onde leciono cadeiras como *Base de Dados, Inteligencia Artificial (IA), Sistema de Gestão de Base de Dados, Administração de Base de Dados, Gestão de Projetos Informaticos e Engenharia de Software*, sou consultor em *Análise de Dados* e formador em *Ferramentas de IA na pesquisa e redação*. Tenho Mestrado em Engenharia Informática na área de Ciencia de Dados e Inteligencia Artificial na Universidade da Beira Interior (UBI-Portugal), tenho Mestrado Profissional de Data Science and Machine Learning no DataTech-Florida (EAU), tenho Licenciatura em Engenharia Informática na área de Engenharia de Software na UNIKIVI(Angola). Atualmente, cursando Doutoramento em Engenharia Informática na área de IA-Based Making Decision in Education. Sou apaixonada por Dados, IA, e assunto que liga educação, motivo pela qual a minha pesquisa foca na educação onde me preocupo e tento procurar-me em dar solução atráves da minha tese intitulada **Personalização Curricular no desenvolvimento educacional e socioeconómico de Angola: Uma abordagem baseada em aprendizagem automática**.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -12,11 +12,11 @@ Me chamo Nkanga Pedro, sou Angolano e natural da Damba na Provincia do Uíge. so
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@nkangapedro">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
